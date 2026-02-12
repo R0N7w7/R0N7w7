@@ -75,7 +75,7 @@ const roberto = {
 <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,java,graphql&theme=dark" />
 
 ### Frontend & UI
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,jquery&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 
 ### Databases & Tools
 <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,git,github,docker,vscode,linux,windows&theme=dark" />
