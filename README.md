@@ -72,13 +72,13 @@ const roberto = {
 <div align="center">
 
 ### Languages & Backend
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,java,graphql&theme=dark" />
 
 ### Frontend & UI
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,jquery&theme=dark" />
 
 ### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,git,github,docker,vscode,linux,windows&theme=dark" />
 
 ### Specialized Tech
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
