@@ -1,74 +1,132 @@
-<h2 align="left">Hi 👋 I'm Roberto Cruz — Fullstack Developer (.NET + React)</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" />
+</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey!+%F0%9F%91%8B+I'm+Roberto+Cruz;Fullstack+Developer+%F0%9F%92%BB;.NET+%2B+React+Specialist+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+</h1>
 
-<p align="left">
-I am a <strong>Fullstack Developer</strong> with experience building institutional systems and modern web applications. I specialize in bridging the gap between robust <strong>C#/.NET</strong> backends and dynamic frontends using <strong>React, Next.js, and TypeScript</strong>. My focus is on digital transformation, process automation, and creating high-performance, SEO-friendly user experiences.
-</p>
+###
 
----
-
-### 🚀 Tech Stack
-
-**Frontend & UI**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="TailwindCSS" />
-</p>
-
-**Backend & Database**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35" alt=".NET" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="SQL Server" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" />
-</p>
-
----
-
-### 💼 Professional Experience
-
-#### **.NET Developer | Poder Judicial del Estado de Hidalgo**
-*July 2025 – Present*
-* **Digital Justice Modernization:** Leading the development and maintenance of the "Electronic Court" to transition judicial processes into 100% digital workflows using .NET Framework 4.7.
-* **Software Engineering:** Designing and maintaining critical platforms (Web Forms/ASPX) to ensure data integrity across various legal matters.
-* **Data Optimization:** Implementing complex business logic through SQL Server stored procedures and ADO.NET for high-performance data persistence.
-* **Requirements Engineering:** Translating complex legal requirements into functional technical solutions through direct collaboration with judicial staff.
-* **DevOps Innovation:** Automating internal processes and modernizing execution environments using containers for better deployment control.
-
-#### **Fullstack Developer | DigitalDev**
-*January 2025 – July 2025*
-* **Frontend Leadership:** Managed the full UI development of an e-learning platform using React, Next.js, and TypeScript from concept to production.
-* **API Integration:** Developed RESTful API integrations for efficient client-server communication and dynamic data visualization.
-* **Responsive Architecture:** Built 100% responsive interfaces using TailwindCSS, ensuring consistency across all devices.
-* **Backend & Microservices:** Maintained backend services with a microservices-oriented architecture and PostgreSQL persistence.
-* **Agile Management:** Led project planning and time estimations under Scrum methodologies.
-
----
-
-### 🎓 Education
-* **B.S. in Computer Science** – Universidad Autónoma del Estado de Hidalgo (UAEH) | *2021 - 2025*
-* **Programming Technician** – CBTIS No. 59 "Miguel Hidalgo y Costilla"
-* **Languages:** Spanish (Native) | English (Advanced)
-
----
-
-### 📫 Let's Connect!
-
-<p align="left">
-  <a href="mailto:cr439694@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/roberto-616-cruz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/roberto-616-cruz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:cr439694@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="gmail" />
   </a>
-  <a href="https://github.com/RON7w7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/RON7w7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github" />
   </a>
-</p>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+## 🚀 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img alt="coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp3bm56Z3R4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+      </td>
+      <td>
+        <pre>
+<code class="language-csharp">
+const roberto = {
+  location: "Pachuca, Mexico 🇲🇽",
+  role: "Fullstack Developer",
+  education: "Computer Science @ UAEH",
+  stack: [".NET", "React", "Next.js", "TS"],
+  experience: ["Judicial Systems", "E-learning"],
+  motto: "Scalable solutions for complex problems"
+};
+</code>
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+**💻 Who am I?**
+
+**Fullstack Developer** with a focus on building robust institutional systems. Currently modernizing the **Justice System** in Hidalgo through digital workflows and high-performance .NET applications.
+
+**My professional focus:**
+- ⚖️ **Institutional Transformation:** Developing electronic court platforms and digitalizing legal processes.
+- 🌐 **Modern Web:** Leading frontend development with React, Next.js, and TypeScript.
+- 🗄️ **Data & Architecture:** Optimizing persistence layers with SQL Server, ADO.NET, and Microservices.
+- ⚙️ **Agile & DevOps:** Experience in Scrum, requirement gathering, and containerization.
+
+<br clear="right"/>
+
+###
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## 💻 Skills
+
+<div align="center">
+
+### Languages & Backend
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,bash&theme=dark" />
+
+### Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,jquery&theme=dark" />
+
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,vscode,linux&theme=dark" />
+
+### Specialized Tech
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/.NET_Framework_4.7-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-00ADEE?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## 📊 Experience Highlights
+
+> [!IMPORTANT]
+> **Poder Judicial del Estado de Hidalgo** | *.NET Developer* (2025 - Present)
+> - Digitalized judicial processes into 100% digital workflows.
+> - Optimized business logic via complex SQL stored procedures.
+
+> [!TIP]
+> **DigitalDev** | *Fullstack Developer* (2025)
+> - Led the UI development of an E-learning platform using React & Next.js.
+> - Integrated RESTful APIs for dynamic data visualization.
+
+###
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+  
+### 🚀 Thanks for visiting my profile
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+**ACTION BOARD**
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRON7w7&label=Visitors&labelColor=%2336BCF7&countColor=%230d1117&style=flat-square)
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
