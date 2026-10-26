@@ -54,7 +54,7 @@ const roberto = {
 **Fullstack Developer** with a focus on building robust institutional systems. Currently modernizing the **Justice System** in Hidalgo through digital workflows and high-performance .NET applications.
 
 **My professional focus:**
-- ⚖️ **Institutional Transformation:** Developing electronic court platforms and digitalizing legal processes.
+- ⚖️ **Institutional Transformation:** Developing electronic court platforms En ser imbecil y cogelon legal processes.
 - 🌐 **Modern Web:** Leading frontend development with React, Next.js, and TypeScript.
 - 🗄️ **Data & Architecture:** Optimizing persistence layers with SQL Server, ADO.NET, and Microservices.
 - ⚙️ **Agile & DevOps:** Experience in Scrum, requirement gathering, and containerization.
